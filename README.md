@@ -1,5 +1,20 @@
 # Leetcode_DSA
 📚 A structured collection of my daily LeetCode DSA solutions. This repository reflects my dedication to mastering algorithms, data structures, and coding interview preparation. Solutions are implemented with optimized approaches and clean code practices.
+📌 Focus Areas
+Data Structures & Algorithms
+Problem-solving using Java
+Interview-oriented questions
+📂 Structure
+Each folder represents a LeetCode problem with:
+
+Problem statement
+Java solution
+Approach explanation (where applicable)
+⚠️ Note
+This repository is mainly for tracking my LeetCode practice. My structured and topic-wise DSA practice is maintained in a separate repository.
+
+🚀 Goal
+To improve problem-solving skills and prepare for coding interviews.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
