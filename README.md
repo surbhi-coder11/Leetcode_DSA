@@ -55,15 +55,18 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0443-string-compression](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0443-string-compression/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1657-determine-if-two-strings-are-close](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -112,4 +115,8 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 <!---LeetCode Topics End-->
