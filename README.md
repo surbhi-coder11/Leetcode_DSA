@@ -73,6 +73,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0443-string-compression](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0443-string-compression/) | Medium |
@@ -86,6 +87,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -228,4 +230,8 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 <!---LeetCode Topics End-->
