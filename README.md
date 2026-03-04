@@ -136,6 +136,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0338-counting-bits](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0338-counting-bits/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0790-domino-and-tromino-tiling](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Stack
