@@ -127,6 +127,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0042-trapping-rain-water](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0338-counting-bits](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0338-counting-bits/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Stack
@@ -195,5 +196,6 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0338-counting-bits](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0338-counting-bits/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 <!---LeetCode Topics End-->
