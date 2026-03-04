@@ -32,6 +32,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0643-maximum-average-subarray-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0739-daily-temperatures](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0739-daily-temperatures/) | Medium |
+| [0994-rotting-oranges](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1268-search-suggestions-system](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1268-search-suggestions-system/) | Medium |
@@ -54,6 +55,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0994-rotting-oranges](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -161,6 +163,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0994-rotting-oranges](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Counting
