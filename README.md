@@ -21,6 +21,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0040-combination-sum-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0088-merge-sorted-array/) | Easy |
@@ -271,6 +272,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0040-combination-sum-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0216-combination-sum-iii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
