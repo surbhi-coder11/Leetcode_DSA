@@ -75,6 +75,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0283-move-zeroes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0443-string-compression](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0443-string-compression/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 ## String
@@ -277,4 +278,8 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
