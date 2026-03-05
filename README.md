@@ -81,6 +81,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0394-decode-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0394-decode-string/) | Medium |
 | [0443-string-compression](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0443-string-compression/) | Medium |
 | [0649-dota2-senate](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0649-dota2-senate/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -119,6 +120,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0394-decode-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0394-decode-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -157,6 +159,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0394-decode-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0394-decode-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0901-online-stock-span/) | Medium |
