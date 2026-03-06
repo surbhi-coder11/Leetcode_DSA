@@ -208,6 +208,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0199-binary-tree-right-side-view](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0399-evaluate-division](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -245,6 +246,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0399-evaluate-division](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0437-path-sum-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0437-path-sum-iii/) | Medium |
 | [0547-number-of-provinces](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -309,6 +311,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
