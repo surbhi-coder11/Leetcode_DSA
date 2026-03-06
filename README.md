@@ -172,6 +172,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0790-domino-and-tromino-tiling](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -231,6 +232,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0700-search-in-a-binary-search-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -240,6 +242,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0547-number-of-provinces](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -250,6 +253,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0700-search-in-a-binary-search-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
