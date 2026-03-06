@@ -99,6 +99,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
