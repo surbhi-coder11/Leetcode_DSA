@@ -26,6 +26,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0053-maximum-subarray](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0149-max-points-on-a-line](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0283-move-zeroes/) | Easy |
@@ -108,6 +109,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0149-max-points-on-a-line](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -289,6 +291,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0062-unique-paths/) | Medium |
+| [0149-max-points-on-a-line](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0149-max-points-on-a-line/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -360,4 +363,8 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0399-evaluate-division/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0149-max-points-on-a-line/) | Hard |
 <!---LeetCode Topics End-->
