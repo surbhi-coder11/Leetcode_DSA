@@ -156,6 +156,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0400-nth-digit](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0400-nth-digit/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1268-search-suggestions-system](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1268-search-suggestions-system/) | Medium |
@@ -292,6 +293,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0062-unique-paths/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0400-nth-digit](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0400-nth-digit/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
