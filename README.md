@@ -38,6 +38,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0735-asteroid-collision](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0739-daily-temperatures/) | Medium |
+| [0740-delete-and-earn](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0912-sort-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0912-sort-an-array/) | Medium |
@@ -115,6 +116,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0740-delete-and-earn](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0740-delete-and-earn/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -181,6 +183,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0338-counting-bits](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0338-counting-bits/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0740-delete-and-earn](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0790-domino-and-tromino-tiling](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
