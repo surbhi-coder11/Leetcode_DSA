@@ -299,6 +299,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0338-counting-bits/) | Easy |
+| [1009-complement-of-base-10-integer](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 ## Math
 | Problem Name | Difficulty |
