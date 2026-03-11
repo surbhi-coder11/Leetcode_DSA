@@ -20,7 +20,7 @@ class Solution {
         while(st<=en){
             int mid = (st+en)/2;
 
-            if(nums[mid]>nums[mid+1] && nums[mid]>nums[mid]-1){
+            if(nums[mid]>nums[mid+1] && nums[mid]>nums[mid-1]){
                 return mid;
             }
             else if(nums[mid]<nums[mid-1]){
