@@ -12,7 +12,7 @@ class Solution {
             int hours = 0;
 
             for (int pile : piles) {
-                hours += (pile + mid - 1) / mid; // ceil division
+                hours += (pile+mid-1)/mid; // ceil division
             }
 
             if (hours <= h) {
