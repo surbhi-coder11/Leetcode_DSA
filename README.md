@@ -219,6 +219,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0144-binary-tree-preorder-traversal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0394-decode-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0394-decode-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0739-daily-temperatures/) | Medium |
@@ -272,6 +273,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0437-path-sum-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -283,6 +285,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0399-evaluate-division](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0437-path-sum-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0437-path-sum-iii/) | Medium |
@@ -296,6 +299,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0437-path-sum-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
