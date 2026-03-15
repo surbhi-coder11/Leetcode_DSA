@@ -22,6 +22,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0040-combination-sum-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0053-maximum-subarray/) | Medium |
@@ -70,6 +71,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -92,6 +94,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0088-merge-sorted-array/) | Easy |
