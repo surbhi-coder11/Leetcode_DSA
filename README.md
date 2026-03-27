@@ -74,6 +74,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2542-maximum-subsequence-score](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
 | [2906-construct-product-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2906-construct-product-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -112,6 +113,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2906-construct-product-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2906-construct-product-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -230,6 +232,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2352-equal-row-and-column-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -412,6 +415,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1622-fancy-sequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Combinatorics
