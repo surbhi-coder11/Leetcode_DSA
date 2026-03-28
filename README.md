@@ -57,6 +57,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1268-search-suggestions-system](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1268-search-suggestions-system/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -258,6 +259,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
