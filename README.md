@@ -51,6 +51,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0739-daily-temperatures](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0740-delete-and-earn](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0867-transpose-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0912-sort-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0994-rotting-oranges](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0994-rotting-oranges/) | Medium |
@@ -109,6 +110,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0867-transpose-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -234,6 +236,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0735-asteroid-collision/) | Medium |
+| [0867-transpose-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
