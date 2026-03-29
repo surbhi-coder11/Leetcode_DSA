@@ -178,6 +178,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
