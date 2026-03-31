@@ -433,6 +433,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1009-complement-of-base-10-integer](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
