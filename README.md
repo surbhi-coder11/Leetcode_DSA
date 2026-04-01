@@ -435,6 +435,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0029-divide-two-integers/) | Medium |
 | [0078-subsets](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0137-single-number-ii/) | Medium |
@@ -448,6 +449,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0062-unique-paths/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0149-max-points-on-a-line/) | Hard |
