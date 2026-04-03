@@ -193,6 +193,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2573-find-the-string-with-lcp](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -460,6 +461,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -496,6 +498,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0216-combination-sum-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
