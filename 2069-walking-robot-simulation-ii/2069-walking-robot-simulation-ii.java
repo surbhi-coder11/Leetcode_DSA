@@ -7,13 +7,11 @@ class Robot {
     public Robot(int width, int height) {
         this.width = width;
         this.height = height;
-        // The total unique positions on the perimeter
         this.total = 2 * (width + height) - 4;
     }
 
     public void step(int num) {
         moved = true;
-        // Using modulo ensures we stay on the perimeter
         pos = (pos + num) % total;
     }
 
@@ -30,11 +28,8 @@ class Robot {
     }
 
     public String getDir() {
-        // Handle the specific "South" case for (0,0) after movement
         if (pos == 0 && moved) return "South";
         if (pos == 0) return "East";
-        
-        // Correct boundary ranges for directions
         if (pos < width) return "East";
         if (pos < width + height - 1) return "North";
         if (pos < 2 * width + height - 2) return "West";
