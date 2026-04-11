@@ -106,6 +106,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3767-maximize-points-after-choosing-k-tasks/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +126,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3474-lexicographically-smallest-generated-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3745-maximize-expression-of-three-elements](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3767-maximize-points-after-choosing-k-tasks/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,6 +262,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3745-maximize-expression-of-three-elements](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3767-maximize-points-after-choosing-k-tasks/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -475,6 +478,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2462-total-cost-to-hire-k-workers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3767-maximize-points-after-choosing-k-tasks/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
