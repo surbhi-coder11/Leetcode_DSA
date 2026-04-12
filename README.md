@@ -64,6 +64,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0994-rotting-oranges](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1202-smallest-string-with-swaps](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1268-search-suggestions-system](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -191,6 +192,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0649-dota2-senate](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0649-dota2-senate/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1202-smallest-string-with-swaps](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1268-search-suggestions-system](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -223,6 +225,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0242-valid-anagram](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0740-delete-and-earn](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0740-delete-and-earn/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1202-smallest-string-with-swaps](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -249,6 +252,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0912-sort-an-array/) | Medium |
+| [1202-smallest-string-with-swaps](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1268-search-suggestions-system](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -405,6 +409,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0841-keys-and-rooms](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1202-smallest-string-with-swaps](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -450,6 +455,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0841-keys-and-rooms](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1202-smallest-string-with-swaps](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
@@ -540,6 +546,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [1202-smallest-string-with-swaps](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
