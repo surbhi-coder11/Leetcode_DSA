@@ -75,6 +75,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1848-minimum-distance-to-the-target-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
