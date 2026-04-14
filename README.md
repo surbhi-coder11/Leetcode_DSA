@@ -85,6 +85,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [2463-minimum-total-distance-traveled](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2542-maximum-subsequence-score](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
@@ -260,6 +261,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2463-minimum-total-distance-traveled](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2542-maximum-subsequence-score](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2751-robot-collisions](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -364,6 +366,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2463-minimum-total-distance-traveled](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
