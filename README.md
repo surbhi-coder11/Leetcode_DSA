@@ -543,6 +543,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3783-mirror-distance-of-an-integer](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
