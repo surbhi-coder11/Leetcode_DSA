@@ -189,6 +189,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0087-scramble-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0087-scramble-string/) | Hard |
 | [0093-restore-ip-addresses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0125-valid-palindrome/) | Easy |
@@ -365,6 +366,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0042-trapping-rain-water](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0062-unique-paths/) | Medium |
+| [0087-scramble-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0087-scramble-string/) | Hard |
 | [0115-distinct-subsequences](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
