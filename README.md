@@ -57,6 +57,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0735-asteroid-collision](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0740-delete-and-earn](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0740-delete-and-earn/) | Medium |
+| [0741-cherry-pickup](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0741-cherry-pickup/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0867-transpose-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -144,6 +145,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0741-cherry-pickup](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0741-cherry-pickup/) | Hard |
 | [0867-transpose-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -379,6 +381,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0435-non-overlapping-intervals](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0740-delete-and-earn](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0740-delete-and-earn/) | Medium |
+| [0741-cherry-pickup](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0741-cherry-pickup/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0790-domino-and-tromino-tiling](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
