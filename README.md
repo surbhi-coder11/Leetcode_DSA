@@ -76,6 +76,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1582-special-positions-in-a-binary-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -490,6 +491,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -582,6 +584,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0399-evaluate-division](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
