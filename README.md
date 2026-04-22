@@ -89,6 +89,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2215-find-the-difference-of-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -224,6 +225,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2075-decode-the-slanted-ciphertext](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
@@ -509,6 +511,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [1268-search-suggestions-system](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1268-search-suggestions-system/) | Medium |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
