@@ -11,6 +11,7 @@ class Solution {
                 f[i] += f[i - 2];
             }
         }
+        
         return f[n];
     }
 }
