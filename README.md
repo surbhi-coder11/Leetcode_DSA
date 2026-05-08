@@ -119,6 +119,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3546-equal-sum-grid-partition-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
@@ -284,6 +285,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2965-find-missing-and-repeated-values](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -483,6 +485,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -605,6 +608,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Combinatorics
@@ -726,6 +730,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1201-ugly-number-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1201-ugly-number-iii/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
