@@ -136,6 +136,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3745-maximize-expression-of-three-elements](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3767-maximize-points-after-choosing-k-tasks/) | Medium |
+| [3805-count-caesar-cipher-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,6 +263,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3805-count-caesar-cipher-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -295,6 +297,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3805-count-caesar-cipher-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -502,6 +505,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0169-majority-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0169-majority-element/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3805-count-caesar-cipher-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -621,6 +625,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3805-count-caesar-cipher-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
