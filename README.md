@@ -109,6 +109,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2615-sum-of-distances](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2615-sum-of-distances/) | Medium |
 | [2751-robot-collisions](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -291,6 +292,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2352-equal-row-and-column-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
 | [2615-sum-of-distances](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2615-sum-of-distances/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -325,6 +327,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2463-minimum-total-distance-traveled](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2542-maximum-subsequence-score](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2751-robot-collisions](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2751-robot-collisions/) | Hard |
+| [2784-check-if-array-is-good](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3347-maximum-frequency-of-an-element-after-performing-operations-ii/) | Hard |
