@@ -39,6 +39,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0136-single-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0169-majority-element/) | Easy |
 | [0213-house-robber-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0213-house-robber-ii/) | Medium |
@@ -382,6 +383,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0033-search-in-rotated-sorted-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
