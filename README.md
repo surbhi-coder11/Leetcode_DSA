@@ -112,6 +112,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2573-find-the-string-with-lcp](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
 | [2615-sum-of-distances](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2615-sum-of-distances/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2751-robot-collisions](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -301,6 +302,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2540-minimum-common-value](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
 | [2615-sum-of-distances](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2615-sum-of-distances/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -616,6 +618,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Math
 | Problem Name | Difficulty |
