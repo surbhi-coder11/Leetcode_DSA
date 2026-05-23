@@ -103,6 +103,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2215-find-the-difference-of-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -302,6 +303,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2215-find-the-difference-of-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2540-minimum-common-value](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
 | [2615-sum-of-distances](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2615-sum-of-distances/) | Medium |
@@ -340,6 +342,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2542-maximum-subsequence-score](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2751-robot-collisions](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2751-robot-collisions/) | Hard |
@@ -385,6 +388,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2462-total-cost-to-hire-k-workers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2751-robot-collisions/) | Hard |
@@ -606,6 +610,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1268-search-suggestions-system](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2462-total-cost-to-hire-k-workers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
