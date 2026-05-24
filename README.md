@@ -280,6 +280,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3713-longest-balanced-substring-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3713-longest-balanced-substring-i/) | Medium |
 | [3805-count-caesar-cipher-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -320,6 +321,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3488-closest-equal-element-queries](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3713-longest-balanced-substring-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3713-longest-balanced-substring-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -544,6 +546,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0169-majority-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0169-majority-element/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3713-longest-balanced-substring-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3713-longest-balanced-substring-i/) | Medium |
 | [3805-count-caesar-cipher-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -781,6 +784,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2975-maximum-square-area-by-removing-fences-from-a-field/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3713-longest-balanced-substring-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3713-longest-balanced-substring-i/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
