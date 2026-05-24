@@ -74,6 +74,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1207-unique-number-of-occurrences](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1268-search-suggestions-system](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [1306-jump-game-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1306-jump-game-iii/) | Medium |
+| [1340-jump-game-v](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -335,6 +336,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0912-sort-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1268-search-suggestions-system](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1268-search-suggestions-system/) | Medium |
+| [1340-jump-game-v](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1679-max-number-of-k-sum-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -465,6 +467,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1137-n-th-tribonacci-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1340-jump-game-v](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
