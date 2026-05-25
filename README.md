@@ -95,6 +95,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1861-rotating-the-box](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1861-rotating-the-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1895-largest-magic-square](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1895-largest-magic-square/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -194,6 +195,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1861-rotating-the-box](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1861-rotating-the-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1895-largest-magic-square](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1895-largest-magic-square/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -441,6 +443,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1871-jump-game-vii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1895-largest-magic-square](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1895-largest-magic-square/) | Medium |
 | [2615-sum-of-distances](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
