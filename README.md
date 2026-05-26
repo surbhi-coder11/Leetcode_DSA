@@ -131,6 +131,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3347-maximum-frequency-of-an-element-after-performing-operations-ii/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -654,6 +655,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
