@@ -126,6 +126,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2975-maximum-square-area-by-removing-fences-from-a-field/) | Medium |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3013-divide-an-array-into-subarrays-with-minimum-cost-ii/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -284,6 +285,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2833-furthest-point-from-origin](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -731,6 +733,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0841-keys-and-rooms](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Interactive
 | Problem Name | Difficulty |
@@ -778,6 +781,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0399-evaluate-division/) | Medium |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
