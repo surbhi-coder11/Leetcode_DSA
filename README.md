@@ -63,6 +63,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0739-daily-temperatures](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0740-delete-and-earn](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0740-delete-and-earn/) | Medium |
 | [0741-cherry-pickup](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0741-cherry-pickup/) | Hard |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0867-transpose-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -439,6 +440,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0300-longest-increasing-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0400-nth-digit](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0400-nth-digit/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
