@@ -108,6 +108,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2078-two-furthest-houses-with-different-colors](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -249,6 +250,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1861-rotating-the-box](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2540-minimum-common-value](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2540-minimum-common-value/) | Easy |
@@ -426,6 +428,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2069-walking-robot-simulation-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2402-meeting-rooms-iii/) | Hard |
