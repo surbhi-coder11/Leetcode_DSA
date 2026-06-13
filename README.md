@@ -170,6 +170,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3767-maximize-points-after-choosing-k-tasks/) | Medium |
 | [3805-count-caesar-cipher-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -311,6 +312,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3474-lexicographically-smallest-generated-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3713-longest-balanced-substring-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3713-longest-balanced-substring-i/) | Medium |
 | [3805-count-caesar-cipher-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -440,6 +442,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2751-robot-collisions](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
