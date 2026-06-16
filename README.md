@@ -311,6 +311,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3121-count-the-number-of-special-characters-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3612-process-string-with-special-operations-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3713-longest-balanced-substring-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3713-longest-balanced-substring-i/) | Medium |
 | [3805-count-caesar-cipher-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -444,6 +445,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2751-robot-collisions](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Binary Search
