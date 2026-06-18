@@ -730,6 +730,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1015-smallest-integer-divisible-by-k](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1201-ugly-number-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1201-ugly-number-iii/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1622-fancy-sequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
