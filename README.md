@@ -106,6 +106,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1895-largest-magic-square](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1895-largest-magic-square/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -303,6 +304,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1871-jump-game-vii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
