@@ -296,6 +296,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1202-smallest-string-with-swaps](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1268-search-suggestions-system](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -348,6 +349,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1202-smallest-string-with-swaps](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1345-jump-game-iv](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1345-jump-game-iv/) | Hard |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -429,6 +431,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1871-jump-game-vii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1871-jump-game-vii/) | Medium |
