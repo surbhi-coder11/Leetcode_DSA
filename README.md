@@ -163,6 +163,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3488-closest-equal-element-queries](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -209,6 +210,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -278,6 +280,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2540-minimum-common-value](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2540-minimum-common-value/) | Easy |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3643-flip-square-submatrix-vertically](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -433,6 +436,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3347-maximum-frequency-of-an-element-after-performing-operations-ii/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -517,6 +521,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -586,6 +591,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3660-jump-game-ix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3660-jump-game-ix/) | Medium |
@@ -770,6 +776,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -857,6 +864,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2976-minimum-cost-to-convert-string-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Interactive
