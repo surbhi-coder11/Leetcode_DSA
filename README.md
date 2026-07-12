@@ -79,6 +79,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1288-remove-covered-intervals](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1306-jump-game-iii/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1345-jump-game-iv/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -361,6 +362,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1189-maximum-number-of-balloons](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -413,6 +415,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1202-smallest-string-with-swaps](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1268-search-suggestions-system](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
