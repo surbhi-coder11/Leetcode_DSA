@@ -955,6 +955,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1291-sequential-digits/) | Medium |
 | [1925-count-square-sum-triples](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2975-maximum-square-area-by-removing-fences-from-a-field/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
