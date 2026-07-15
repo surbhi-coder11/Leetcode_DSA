@@ -820,6 +820,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3536-maximum-product-of-two-digits](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
@@ -979,6 +980,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1201-ugly-number-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1201-ugly-number-iii/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
