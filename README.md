@@ -189,6 +189,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3767-maximize-points-after-choosing-k-tasks/) | Medium |
 | [3805-count-caesar-cipher-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -285,6 +286,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2540-minimum-common-value](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3643-flip-square-submatrix-vertically](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -448,6 +450,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3745-maximize-expression-of-three-elements](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3767-maximize-points-after-choosing-k-tasks/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -494,6 +497,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3614-process-string-with-special-operations-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -829,6 +833,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3805-count-caesar-cipher-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -981,6 +986,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
