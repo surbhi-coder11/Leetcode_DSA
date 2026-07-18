@@ -110,6 +110,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1914-cyclically-rotating-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -818,6 +819,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1840-maximum-building-height](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1925-count-square-sum-triples](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1925-count-square-sum-triples/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -990,6 +992,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1201-ugly-number-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1201-ugly-number-iii/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
