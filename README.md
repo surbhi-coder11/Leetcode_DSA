@@ -207,6 +207,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1927-sum-game](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1927-sum-game/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -325,6 +326,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1871-jump-game-vii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1927-sum-game](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -819,6 +821,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1840-maximum-building-height](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1925-count-square-sum-triples](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1925-count-square-sum-triples/) | Easy |
+| [1927-sum-game](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
@@ -1015,4 +1018,8 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1927-sum-game/) | Medium |
 <!---LeetCode Topics End-->
