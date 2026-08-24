@@ -104,6 +104,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1848-minimum-distance-to-the-target-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1861-rotating-the-box/) | Medium |
+| [1872-stone-game-viii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1895-largest-magic-square](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1895-largest-magic-square/) | Medium |
@@ -549,6 +550,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1871-jump-game-vii/) | Medium |
+| [1872-stone-game-viii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1895-largest-magic-square](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1895-largest-magic-square/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -600,6 +602,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1871-jump-game-vii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1871-jump-game-vii/) | Medium |
+| [1872-stone-game-viii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -819,6 +822,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1486-xor-operation-in-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1622-fancy-sequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1840-maximum-building-height/) | Hard |
+| [1872-stone-game-viii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1925-count-square-sum-triples](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1925-count-square-sum-triples/) | Easy |
 | [1927-sum-game](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1927-sum-game/) | Medium |
@@ -1021,5 +1025,14 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1872-stone-game-viii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1927-sum-game/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1872-stone-game-viii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1872-stone-game-viii/) | Hard |
 <!---LeetCode Topics End-->
