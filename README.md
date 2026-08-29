@@ -142,6 +142,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2812-find-the-safest-path-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2975-maximum-square-area-by-removing-fences-from-a-field/) | Medium |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
@@ -454,6 +455,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2751-robot-collisions](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3347-maximum-frequency-of-an-element-after-performing-operations-ii/) | Hard |
@@ -893,6 +895,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2573-find-the-string-with-lcp](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
