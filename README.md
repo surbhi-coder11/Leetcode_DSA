@@ -174,6 +174,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3548-equal-sum-grid-partition-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -265,6 +266,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3546-equal-sum-grid-partition-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3742-maximum-path-score-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Two Pointers
@@ -409,6 +411,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3713-longest-balanced-substring-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3713-longest-balanced-substring-i/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -687,6 +690,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2685-count-the-number-of-complete-components](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -814,6 +818,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
