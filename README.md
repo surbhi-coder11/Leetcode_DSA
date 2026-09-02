@@ -298,6 +298,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3643-flip-square-submatrix-vertically](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3983-subsequence-after-one-replacement](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3983-subsequence-after-one-replacement/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -363,6 +364,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3805-count-caesar-cipher-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3983-subsequence-after-one-replacement](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3983-subsequence-after-one-replacement/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
