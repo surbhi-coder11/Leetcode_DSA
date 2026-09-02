@@ -810,6 +810,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0137-single-number-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0260-single-number-iii/) | Medium |
 | [0338-counting-bits](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0338-counting-bits/) | Easy |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1486-xor-operation-in-an-array/) | Easy |
@@ -832,6 +833,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0396-rotate-function](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0396-rotate-function/) | Medium |
 | [0400-nth-digit](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0400-nth-digit/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0788-rotated-digits](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0788-rotated-digits/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -1058,4 +1060,8 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1872-stone-game-viii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1872-stone-game-viii/) | Hard |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 <!---LeetCode Topics End-->
