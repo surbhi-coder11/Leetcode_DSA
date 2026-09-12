@@ -54,6 +54,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0300-longest-increasing-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0396-rotate-function](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0396-rotate-function/) | Medium |
 | [0399-evaluate-division](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -290,6 +291,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0160-intersection-of-two-linked-lists](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0283-move-zeroes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0443-string-compression](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0443-string-compression/) | Medium |
 | [0696-count-binary-substrings](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0696-count-binary-substrings/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -385,6 +387,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0242-valid-anagram](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0740-delete-and-earn](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0740-delete-and-earn/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
@@ -444,6 +447,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0215-kth-largest-element-in-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -545,6 +549,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0240-search-a-2d-matrix-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0400-nth-digit](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0400-nth-digit/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
