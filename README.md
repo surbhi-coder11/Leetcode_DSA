@@ -321,6 +321,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0014-longest-common-prefix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0038-count-and-say](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0038-count-and-say/) | Medium |
 | [0087-scramble-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0087-scramble-string/) | Hard |
 | [0091-decode-ways](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0091-decode-ways/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0093-restore-ip-addresses/) | Medium |
