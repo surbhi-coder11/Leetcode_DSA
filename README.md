@@ -70,6 +70,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0741-cherry-pickup](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0741-cherry-pickup/) | Hard |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0835-image-overlap](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -245,6 +246,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0074-search-a-2d-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0741-cherry-pickup](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0741-cherry-pickup/) | Hard |
+| [0835-image-overlap](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
