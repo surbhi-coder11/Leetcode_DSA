@@ -881,6 +881,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0788-rotated-digits](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0788-rotated-digits/) | Medium |
+| [0836-rectangle-overlap](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0836-rectangle-overlap/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1201-ugly-number-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1201-ugly-number-iii/) | Medium |
@@ -1030,6 +1031,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0836-rectangle-overlap](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0836-rectangle-overlap/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
