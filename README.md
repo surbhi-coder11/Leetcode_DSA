@@ -293,6 +293,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0075-sort-colors](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -394,6 +395,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0001-two-sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0141-linked-list-cycle](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0160-intersection-of-two-linked-lists](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0169-majority-element/) | Easy |
@@ -995,6 +997,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0061-rotate-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0061-rotate-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -1135,4 +1138,8 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
