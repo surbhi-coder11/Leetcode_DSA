@@ -1,45 +1,49 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode(int x) {
+ *         val = x;
+ *         next = null;
+ *     }
+ * }
+ */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        if (headA == null || headB == null) return null;
+        ListNode listA = headA;
+        ListNode listB = headB;
 
-        // 1. Dono lists ki length count karo
-        int lenA = getLength(headA);
-        int lenB = getLength(headB);
-
-        ListNode pA = headA;
-        ListNode pB = headB;
-
-        // 2. Jo list lambi hai uske pointer ko difference jitna aage badhao
-        int diff = Math.abs(lenA - lenB);
-        if (lenA > lenB) {
-            while (diff-- > 0) {
-                pA = pA.next;
+        int len1 = getLen(headA);
+        int len2 = getLen(headB);
+        int diff = Math.abs(len1 - len2);
+        if(len1>len2){
+            while(diff-- > 0){
+                listA= listA.next;
             }
-        } else {
-            while (diff-- > 0) {
-                pB = pB.next;
+        }else{
+            while(diff-->0){
+                listB =listB.next;
             }
         }
-
-        // 3. Dono ko sath me chalao jab tak collision na ho
-        while (pA != null && pB != null) {
-            if (pA == pB) {
-                return pA; // Intersection mil gaya
+        while(listA!=null && listB!=null){
+            if(listA == listB){
+                return listA;
             }
-            pA = pA.next;
-            pB = pB.next;
+            listA = listA.next;
+            listB = listB.next;
         }
 
-        return null; // Koi intersection nahi hai
+        return null;
+
     }
-
-    private int getLength(ListNode head) {
-        int length = 0;
-        ListNode curr = head;
-        while (curr != null) {
-            length++;
-            curr = curr.next;
+    private int getLen(ListNode head){
+        int len =0;
+        ListNode temp = head;
+        while(temp!=null){
+            len++;
+            temp=temp.next;
         }
-        return length;
+        return len;
     }
 }
