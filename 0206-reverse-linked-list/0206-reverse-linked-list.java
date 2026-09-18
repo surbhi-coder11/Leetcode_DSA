@@ -10,16 +10,14 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        ListNode curr = head;
-        ListNode prev = null;
-        ListNode Next;
-        while(curr!=null){
-            Next =curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = Next;
-        
-        }
-        return prev;
+        if (head == null || head.next == null) {
+        return head;
+    }
+    
+    ListNode newHead = reverseList(head.next); // Tail reverse ho gayi
+    head.next.next = head;                     // Pichle node ko reverse chain ke peeche joda
+    head.next = null;                          // Purana forward link cut kiya
+    
+    return newHead;
     }
 }
