@@ -1,29 +1,22 @@
-import java.util.*;
-
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        Map<Integer, Integer> nextGreaterMap = new HashMap<>();
-        Deque<Integer> stack = new ArrayDeque<>();
-
-        // 1. Build next greater map using Monotonic Decreasing Stack
-        for (int num : nums2) {
-            while (!stack.isEmpty() && stack.peek() < num) {
-                nextGreaterMap.put(stack.pop(), num);
+        HashMap<Integer, Integer> hp = new HashMap<>();
+        Deque<Integer> dq = new ArrayDeque<>();
+        for(int num : nums2){
+            while(!dq.isEmpty() && num> dq.peek()){
+                hp.put(dq.pop(),num);
             }
-            stack.push(num);
+            dq.push(num);
         }
 
-        // Remaining elements in stack have no next greater
-        while (!stack.isEmpty()) {
-            nextGreaterMap.put(stack.pop(), -1);
+        while(!dq.isEmpty()){
+            hp.put(dq.pop(),-1);
+        }
+       int[] ans = new int[nums1.length];
+        for(int i=0;i<nums1.length;i++){
+           ans[i] = hp.get(nums1[i]);
         }
 
-        // 2. Resolve queries for nums1 in O(1) each
-        int[] result = new int[nums1.length];
-        for (int i = 0; i < nums1.length; i++) {
-            result[i] = nextGreaterMap.get(nums1[i]);
-        }
-
-        return result;
+        return ans;
     }
 }
