@@ -1,41 +1,42 @@
-import java.util.*;
+import java.util.ArrayDeque;
+import java.util.Deque;
+
 class MyQueue {
-    Stack<Integer> s1 ;
-    Stack<Integer> s2;
+    private Deque<Integer> inStack;
+    private Deque<Integer> outStack;
 
     public MyQueue() {
-        s1 = new Stack<>();
-        s2 = new Stack<>();
+        inStack = new ArrayDeque<>();
+        outStack = new ArrayDeque<>();
     }
-    
+
+    // O(1) time
     public void push(int x) {
-        while(!s1.isEmpty()){
-            s2.push(s1.pop());
-        }
-        s1.push(x);
-        while(!s2.isEmpty()){
-            s1.push(s2.pop());
-        }
+        inStack.push(x);
     }
-    
+
+    // Amortized O(1) time
     public int pop() {
-      return s1.pop();
+        shiftStacks();
+        return outStack.pop();
     }
-    
+
+    // Amortized O(1) time
     public int peek() {
-        return s1.peek();
+        shiftStacks();
+        return outStack.peek();
     }
-    
+
     public boolean empty() {
-        return s1.isEmpty();
+        return inStack.isEmpty() && outStack.isEmpty();
+    }
+
+    // Only transfer elements when outStack is completely drained
+    private void shiftStacks() {
+        if (outStack.isEmpty()) {
+            while (!inStack.isEmpty()) {
+                outStack.push(inStack.pop());
+            }
+        }
     }
 }
-
-/**
- * Your MyQueue object will be instantiated and called as such:
- * MyQueue obj = new MyQueue();
- * obj.push(x);
- * int param_2 = obj.pop();
- * int param_3 = obj.peek();
- * boolean param_4 = obj.empty();
- */
