@@ -178,6 +178,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3483-unique-3-digit-even-numbers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -696,6 +697,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -955,6 +957,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3312-sorted-gcd-pair-queries](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
