@@ -185,6 +185,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -966,6 +967,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3524-find-x-value-of-array-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
