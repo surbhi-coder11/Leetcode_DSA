@@ -361,6 +361,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1096-brace-expansion-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1268-search-suggestions-system](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -742,6 +743,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0739-daily-temperatures](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0901-online-stock-span/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -1204,6 +1206,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 ## Tournament Sort
 | Problem Name | Difficulty |
