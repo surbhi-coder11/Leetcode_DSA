@@ -344,6 +344,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0093-restore-ip-addresses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0127-word-ladder](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0127-word-ladder/) | Hard |
 | [0132-palindrome-partitioning-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -415,6 +416,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0001-two-sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0127-word-ladder](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0127-word-ladder/) | Hard |
 | [0141-linked-list-cycle](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0149-max-points-on-a-line/) | Hard |
@@ -774,6 +776,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0127-word-ladder/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0399-evaluate-division](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0547-number-of-provinces/) | Medium |
@@ -1221,4 +1224,8 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0337-house-robber-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0337-house-robber-iii/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
