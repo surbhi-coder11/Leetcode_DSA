@@ -778,6 +778,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0127-word-ladder/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0207-course-schedule](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0207-course-schedule/) | Medium |
 | [0399-evaluate-division](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0841-keys-and-rooms/) | Medium |
@@ -852,6 +853,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0207-course-schedule](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0207-course-schedule/) | Medium |
 | [0337-house-robber-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0337-house-robber-iii/) | Medium |
 | [0399-evaluate-division](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0437-path-sum-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0437-path-sum-iii/) | Medium |
@@ -1040,6 +1042,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0207-course-schedule/) | Medium |
 | [0399-evaluate-division](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0841-keys-and-rooms/) | Medium |
@@ -1174,6 +1177,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0207-course-schedule/) | Medium |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Sweep Line
@@ -1228,4 +1232,8 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0127-word-ladder/) | Hard |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
