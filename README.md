@@ -364,6 +364,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0721-accounts-merge](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0796-rotate-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0796-rotate-string/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -754,6 +755,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0739-daily-temperatures](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0901-online-stock-span/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
@@ -1227,6 +1229,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
