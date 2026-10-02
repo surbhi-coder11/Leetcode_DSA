@@ -340,6 +340,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0014-longest-common-prefix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0038-count-and-say](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0038-count-and-say/) | Medium |
 | [0071-simplify-path](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0071-simplify-path/) | Medium |
 | [0087-scramble-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0087-scramble-string/) | Hard |
@@ -679,6 +680,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0062-unique-paths/) | Medium |
@@ -1029,6 +1031,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0040-combination-sum-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0078-subsets/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0093-restore-ip-addresses/) | Medium |
@@ -1229,6 +1232,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
