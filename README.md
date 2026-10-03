@@ -612,6 +612,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0162-find-peak-element/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -856,6 +857,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0102-binary-tree-level-order-traversal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0337-house-robber-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0337-house-robber-iii/) | Medium |
 | [0437-path-sum-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -902,6 +904,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0102-binary-tree-level-order-traversal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0337-house-robber-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0337-house-robber-iii/) | Medium |
 | [0437-path-sum-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -949,6 +952,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0078-subsets](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0137-single-number-ii/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0260-single-number-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0338-counting-bits/) | Easy |
