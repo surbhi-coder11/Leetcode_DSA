@@ -862,6 +862,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0437-path-sum-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -882,6 +883,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0437-path-sum-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0572-subtree-of-another-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0721-accounts-merge](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0841-keys-and-rooms](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0872-leaf-similar-trees/) | Easy |
@@ -911,6 +913,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0437-path-sum-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -1194,6 +1197,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0796-rotate-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0796-rotate-string/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Number Theory
@@ -1274,4 +1278,8 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0207-course-schedule/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
