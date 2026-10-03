@@ -861,6 +861,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0337-house-robber-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0337-house-robber-iii/) | Medium |
 | [0437-path-sum-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -879,6 +880,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0337-house-robber-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0337-house-robber-iii/) | Medium |
 | [0399-evaluate-division](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0437-path-sum-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0437-path-sum-iii/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0721-accounts-merge](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0841-keys-and-rooms](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0841-keys-and-rooms/) | Medium |
@@ -908,6 +910,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0337-house-robber-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0337-house-robber-iii/) | Medium |
 | [0437-path-sum-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -1262,6 +1265,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0337-house-robber-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0337-house-robber-iii/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
