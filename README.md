@@ -628,6 +628,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1268-search-suggestions-system](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -713,6 +714,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1340-jump-game-v](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -776,6 +778,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0225-implement-stack-using-queues](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0901-online-stock-span](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0901-online-stock-span/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1622-fancy-sequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1622-fancy-sequence/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
@@ -812,6 +815,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -870,6 +874,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -898,6 +903,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -968,6 +974,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1486-xor-operation-in-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -1289,6 +1296,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Lowest Common Ancestor
 | Problem Name | Difficulty |
 | ------- | ------- |
