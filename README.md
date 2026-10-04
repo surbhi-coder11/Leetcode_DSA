@@ -37,6 +37,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0075-sort-colors](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0136-single-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0136-single-number/) | Easy |
@@ -694,6 +695,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0087-scramble-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0087-scramble-string/) | Hard |
 | [0091-decode-ways](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0115-distinct-subsequences/) | Hard |
+| [0119-pascals-triangle-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
