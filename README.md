@@ -696,6 +696,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0115-distinct-subsequences](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0124-binary-tree-maximum-path-sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0132-palindrome-partitioning-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0213-house-robber-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -866,6 +867,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
@@ -892,6 +894,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0207-course-schedule](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0207-course-schedule/) | Medium |
@@ -929,6 +932,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
@@ -1298,6 +1302,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0337-house-robber-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Bidirectional Search
