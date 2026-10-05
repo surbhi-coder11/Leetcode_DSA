@@ -885,6 +885,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0652-find-duplicate-subtrees](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
@@ -914,6 +915,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0721-accounts-merge](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0841-keys-and-rooms](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -950,6 +952,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0652-find-duplicate-subtrees](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
@@ -1136,6 +1139,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
