@@ -360,6 +360,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0242-valid-anagram](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0290-word-pattern/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0344-reverse-string/) | Easy |
 | [0394-decode-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0394-decode-string/) | Medium |
@@ -817,6 +818,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0199-binary-tree-right-side-view](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0207-course-schedule](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0399-evaluate-division](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0721-accounts-merge](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0721-accounts-merge/) | Medium |
@@ -1104,6 +1106,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0093-restore-ip-addresses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0216-combination-sum-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0257-binary-tree-paths/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1980-find-unique-binary-string/) | Medium |
