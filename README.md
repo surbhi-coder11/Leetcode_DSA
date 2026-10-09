@@ -345,6 +345,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0038-count-and-say/) | Medium |
 | [0071-simplify-path](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0071-simplify-path/) | Medium |
@@ -433,6 +434,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0001-two-sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0127-word-ladder](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0127-word-ladder/) | Hard |
 | [0141-linked-list-cycle](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -560,6 +562,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
