@@ -731,6 +731,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0788-rotated-digits](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0788-rotated-digits/) | Medium |
 | [0790-domino-and-tromino-tiling](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [0799-champagne-tower](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0799-champagne-tower/) | Medium |
+| [0968-binary-tree-cameras](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -909,6 +910,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0872-leaf-similar-trees](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0968-binary-tree-cameras](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
@@ -940,6 +942,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0872-leaf-similar-trees](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0968-binary-tree-cameras](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
@@ -979,6 +982,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0872-leaf-similar-trees](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0968-binary-tree-cameras](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
@@ -1349,6 +1353,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0124-binary-tree-maximum-path-sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0337-house-robber-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0968-binary-tree-cameras](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
