@@ -51,6 +51,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0213-house-robber-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0216-combination-sum-iii/) | Medium |
+| [0220-contains-duplicate-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0268-missing-number/) | Easy |
@@ -512,6 +513,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0088-merge-sorted-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0220-contains-duplicate-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0242-valid-anagram](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -563,6 +565,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0220-contains-duplicate-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -1189,6 +1192,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0220-contains-duplicate-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0912-sort-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
@@ -1202,6 +1206,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0220-contains-duplicate-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [2336-smallest-number-in-infinite-set](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Quickselect
