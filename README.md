@@ -155,6 +155,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2751-robot-collisions](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2906-construct-product-matrix/) | Medium |
@@ -1282,6 +1283,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1291-sequential-digits/) | Medium |
 | [1925-count-square-sum-triples](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1925-count-square-sum-triples/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2975-maximum-square-area-by-removing-fences-from-a-field/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
