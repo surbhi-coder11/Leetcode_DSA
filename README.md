@@ -49,6 +49,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0169-majority-element/) | Easy |
 | [0212-word-search-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0212-word-search-ii/) | Hard |
 | [0213-house-robber-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0213-house-robber-ii/) | Medium |
@@ -326,6 +327,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0143-reorder-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0344-reverse-string/) | Easy |
@@ -645,6 +647,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0268-missing-number/) | Easy |
