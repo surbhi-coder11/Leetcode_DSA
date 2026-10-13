@@ -25,6 +25,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0011-container-with-most-water](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0015-3sum/) | Medium |
+| [0027-remove-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0035-search-insert-position/) | Easy |
@@ -312,6 +313,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0015-3sum/) | Medium |
+| [0027-remove-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0075-sort-colors/) | Medium |
