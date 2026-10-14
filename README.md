@@ -205,6 +205,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3640-trionic-array-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3640-trionic-array-ii/) | Hard |
 | [3643-flip-square-submatrix-vertically](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
@@ -781,6 +782,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3640-trionic-array-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3640-trionic-array-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
