@@ -214,6 +214,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3689-maximum-total-subarray-value-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3721-longest-balanced-subarray-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -520,6 +521,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3713-longest-balanced-substring-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3713-longest-balanced-substring-i/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3721-longest-balanced-subarray-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -715,6 +717,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3546-equal-sum-grid-partition-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3721-longest-balanced-subarray-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -910,6 +913,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0912-sort-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0912-sort-an-array/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+| [3721-longest-balanced-subarray-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Tree
@@ -1289,6 +1293,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3454-separate-squares-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3454-separate-squares-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3721-longest-balanced-subarray-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Database
