@@ -51,6 +51,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0162-find-peak-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0189-rotate-array/) | Medium |
 | [0212-word-search-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0212-word-search-ii/) | Hard |
 | [0213-house-robber-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -333,6 +334,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0151-reverse-words-in-a-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0344-reverse-string/) | Easy |
@@ -1095,6 +1097,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0062-unique-paths](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0066-plus-one/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0189-rotate-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0268-missing-number/) | Easy |
 | [0396-rotate-function](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0396-rotate-function/) | Medium |
 | [0400-nth-digit](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0400-nth-digit/) | Medium |
