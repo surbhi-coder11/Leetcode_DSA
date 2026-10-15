@@ -42,6 +42,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0136-single-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0137-single-number-ii/) | Medium |
@@ -235,6 +236,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -738,6 +740,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0115-distinct-subsequences](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0119-pascals-triangle-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0132-palindrome-partitioning-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0132-palindrome-partitioning-ii/) | Hard |
