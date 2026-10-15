@@ -68,6 +68,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0334-increasing-triplet-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0396-rotate-function](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0396-rotate-function/) | Medium |
 | [0399-evaluate-division](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -476,6 +477,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0290-word-pattern](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0496-next-greater-element-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0652-find-duplicate-subtrees](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0721-accounts-merge](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0721-accounts-merge/) | Medium |
@@ -843,6 +845,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0225-implement-stack-using-queues](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0380-insert-delete-getrandom-o1](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0901-online-stock-span](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0901-online-stock-span/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1622-fancy-sequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1622-fancy-sequence/) | Hard |
@@ -1106,6 +1109,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0066-plus-one](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0066-plus-one/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0268-missing-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0268-missing-number/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0396-rotate-function](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0396-rotate-function/) | Medium |
 | [0400-nth-digit](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0400-nth-digit/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -1452,4 +1456,8 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0518-coin-change-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0518-coin-change-ii/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
