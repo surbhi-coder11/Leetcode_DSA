@@ -375,6 +375,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0032-longest-valid-parentheses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0038-count-and-say/) | Medium |
 | [0071-simplify-path](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0071-simplify-path/) | Medium |
+| [0076-minimum-window-substring](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0087-scramble-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0087-scramble-string/) | Hard |
 | [0091-decode-ways](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0091-decode-ways/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0093-restore-ip-addresses/) | Medium |
@@ -464,6 +465,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0013-roman-to-integer](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0076-minimum-window-substring](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0126-word-ladder-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0127-word-ladder/) | Hard |
 | [0141-linked-list-cycle](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0141-linked-list-cycle/) | Easy |
@@ -600,6 +602,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0076-minimum-window-substring](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0220-contains-duplicate-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
