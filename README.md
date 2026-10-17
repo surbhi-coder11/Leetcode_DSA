@@ -46,6 +46,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0134-gas-station](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0149-max-points-on-a-line/) | Hard |
@@ -245,6 +246,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0045-jump-game-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0135-candy/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
