@@ -371,6 +371,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
@@ -467,6 +468,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0001-two-sum/) | Easy |
+| [0012-integer-to-roman](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
@@ -1110,6 +1112,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0048-rotate-image/) | Medium |
