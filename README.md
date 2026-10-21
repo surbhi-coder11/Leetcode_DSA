@@ -242,6 +242,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3767-maximize-points-after-choosing-k-tasks/) | Medium |
 | [3805-count-caesar-cipher-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -569,6 +570,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3805-count-caesar-cipher-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -650,6 +652,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3013-divide-an-array-into-subarrays-with-minimum-cost-ii/) | Hard |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3347-maximum-frequency-of-an-element-after-performing-operations-ii/) | Hard |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -957,6 +960,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3805-count-caesar-cipher-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
