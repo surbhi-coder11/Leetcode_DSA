@@ -1,40 +1,38 @@
 class Solution {
-    private int[] nums;
-    private int k;
-    private int m;
-
     public long countSubarrays(int[] nums, int k, int m) {
-        this.nums = nums;
-        this.k = k;
-        this.m = m;
-        return f(k) - f(k + 1);
+        return countWithAtLeastDistinct(nums, k, m) - countWithAtLeastDistinct(nums, k + 1, m);
     }
 
-    private long f(int lim) {
-        Map<Integer, Integer> cnt = new HashMap<>();
-        long ans = 0;
-        int l = 0;
-        int t = 0;
+    private long countWithAtLeastDistinct(int[] nums, int k, int m) {
+        Map<Integer, Integer> frequencyMap = new HashMap<>();
+        long totalSubarrays = 0;
+        int left = 0;
+        int validElementsCount = 0; 
 
-        for (int x : nums) {
-            if (cnt.merge(x, 1, Integer::sum) == m) {
-                t++;
+        for (int right = 0; right < nums.length; right++) {
+            int num = nums[right];
+            int newFreq = frequencyMap.merge(num, 1, Integer::sum);
+            if (newFreq == m) {
+                validElementsCount++;
             }
 
-            while (cnt.size() >= lim && t >= k) {
-                int y = nums[l++];
-                int cur = cnt.merge(y, -1, Integer::sum);
-                if (cur == m - 1) {
-                    --t;
+            // Correct condition depending on what 'k' represents:
+            // If 'k' is the threshold for elements with frequency >= m:
+            while (validElementsCount >= k) {
+                // Add valid subarrays ending at 'right'
+                totalSubarrays += (nums.length - right); // Or adjust based on your prefix counting logic
+                
+                int leftNum = nums[left++];
+                int updatedFreq = frequencyMap.merge(leftNum, -1, Integer::sum);
+                if (updatedFreq == m - 1) {
+                    validElementsCount--;
                 }
-                if (cur == 0) {
-                    cnt.remove(y);
+                if (updatedFreq == 0) {
+                    frequencyMap.remove(leftNum);
                 }
             }
-
-            ans += l;
         }
 
-        return ans;
+        return totalSubarrays;
     }
 }
