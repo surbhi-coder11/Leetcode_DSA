@@ -72,6 +72,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0268-missing-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0274-h-index/) | Medium |
 | [0283-move-zeroes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0289-game-of-life](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0289-game-of-life/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -299,6 +300,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0074-search-a-2d-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0212-word-search-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0212-word-search-ii/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0289-game-of-life](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0289-game-of-life/) | Medium |
 | [0741-cherry-pickup](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0741-cherry-pickup/) | Hard |
 | [0835-image-overlap](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0867-transpose-matrix/) | Easy |
@@ -662,6 +664,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0289-game-of-life](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0289-game-of-life/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0735-asteroid-collision](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0867-transpose-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0867-transpose-matrix/) | Easy |
