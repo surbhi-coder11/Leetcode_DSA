@@ -36,6 +36,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0048-rotate-image](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0057-insert-interval](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0066-plus-one](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
