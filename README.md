@@ -62,6 +62,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0169-majority-element/) | Easy |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
+| [0198-house-robber](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0212-word-search-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0212-word-search-ii/) | Hard |
 | [0213-house-robber-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0213-house-robber-ii/) | Medium |
@@ -813,6 +814,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0132-palindrome-partitioning-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0139-word-break](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0139-word-break/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
+| [0198-house-robber](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0337-house-robber-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0337-house-robber-iii/) | Medium |
