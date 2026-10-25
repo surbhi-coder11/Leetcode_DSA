@@ -108,6 +108,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1268-search-suggestions-system](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -311,6 +312,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0835-image-overlap](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0994-rotting-oranges/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -947,6 +949,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -1060,6 +1063,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
@@ -1271,6 +1275,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0547-number-of-provinces](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0721-accounts-merge](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0721-accounts-merge/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
