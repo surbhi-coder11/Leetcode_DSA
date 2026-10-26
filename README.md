@@ -406,6 +406,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0032-longest-valid-parentheses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0067-add-binary](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0067-add-binary/) | Easy |
 | [0071-simplify-path](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0076-minimum-window-substring/) | Hard |
@@ -682,6 +683,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0067-add-binary/) | Easy |
 | [0289-game-of-life](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0289-game-of-life/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0735-asteroid-collision](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0735-asteroid-collision/) | Medium |
@@ -1153,6 +1155,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0029-divide-two-integers/) | Medium |
+| [0067-add-binary](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0137-single-number-ii/) | Medium |
@@ -1185,6 +1188,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0050-powx-n](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0268-missing-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0268-missing-number/) | Easy |
