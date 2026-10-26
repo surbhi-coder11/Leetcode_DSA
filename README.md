@@ -370,6 +370,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -599,6 +600,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0242-valid-anagram](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0274-h-index/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -913,6 +915,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0208-implement-trie-prefix-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0901-online-stock-span](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0901-online-stock-span/) | Medium |
@@ -931,6 +934,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0901-online-stock-span](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0901-online-stock-span/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -1135,6 +1139,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0912-sort-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1268-search-suggestions-system](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
