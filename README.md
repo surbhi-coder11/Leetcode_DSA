@@ -36,6 +36,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0048-rotate-image](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0066-plus-one](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0066-plus-one/) | Easy |
@@ -601,6 +602,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0015-3sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0169-majority-element/) | Easy |
@@ -1601,4 +1603,8 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0139-word-break/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
