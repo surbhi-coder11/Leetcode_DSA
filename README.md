@@ -250,6 +250,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3767-maximize-points-after-choosing-k-tasks/) | Medium |
 | [3805-count-caesar-cipher-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -502,6 +503,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3805-count-caesar-cipher-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3983-subsequence-after-one-replacement](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3983-subsequence-after-one-replacement/) | Medium |
 ## Hash Table
@@ -1017,6 +1019,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3721-longest-balanced-subarray-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1053,6 +1056,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2196-create-binary-tree-from-descriptions](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1098,6 +1102,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2685-count-the-number-of-complete-components](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1191,6 +1196,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -1424,6 +1430,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3721-longest-balanced-subarray-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1478,6 +1485,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3161-block-placement-queries](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3161-block-placement-queries/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
