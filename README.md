@@ -92,6 +92,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0496-next-greater-element-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0518-coin-change-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0721-accounts-merge](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0735-asteroid-collision](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0735-asteroid-collision/) | Medium |
@@ -844,6 +845,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0396-rotate-function](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0396-rotate-function/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0518-coin-change-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0518-coin-change-ii/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0740-delete-and-earn](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0740-delete-and-earn/) | Medium |
@@ -1427,6 +1429,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1622-fancy-sequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1622-fancy-sequence/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3161-block-placement-queries](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3161-block-placement-queries/) | Hard |
@@ -1489,6 +1492,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3161-block-placement-queries](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3161-block-placement-queries/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -1575,6 +1579,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
