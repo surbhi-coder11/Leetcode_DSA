@@ -1,19 +1,36 @@
+import java.util.*;
 class Solution {
-    public int lengthOfLIS(int[] nums) {
-        int[] dp = new int[nums.length];
-        int size = 0;
+    public int LCS(int[] nums, int[] nums2){
+        int n = nums.length;
+        int m = nums2.length;
 
-        for (int num : nums) {
-            int left = 0, right = size;
-            while (left < right) {
-                int mid = (left + right) / 2;
-                if (dp[mid] < num) left = mid + 1;
-                else right = mid;
+        int[][] dp = new int[n+1][m+1];
+
+        for(int i=1;i<=n;i++){
+            for(int j=1;j<=m;j++){
+                if(nums[i-1]==nums2[j-1]){
+                    dp[i][j] = dp[i-1][j-1]+1;
+                }else{
+                    dp[i][j] = Math.max(dp[i-1][j], dp[i][j-1]);
+                }
             }
-            dp[left] = num;
-            if (left == size) size++;
         }
 
-        return size;
+        return dp[n][m];
+    }
+    public int lengthOfLIS(int[] nums) {
+        
+        Set<Integer> hp = new HashSet<>();
+        for(int i=0;i<nums.length;i++){
+            hp.add(nums[i]);
+        }
+        int[] nums2 = new int[hp.size()];
+        int i=0;
+        for(int num : hp){
+           nums2[i] = num;
+           i++;
+        }
+        Arrays.sort(nums2);
+        return LCS(nums,nums2);
     }
 }
