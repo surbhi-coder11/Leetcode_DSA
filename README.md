@@ -1224,6 +1224,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0067-add-binary](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0172-factorial-trailing-zeroes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0202-happy-number/) | Easy |
 | [0224-basic-calculator](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0224-basic-calculator/) | Hard |
 | [0268-missing-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0268-missing-number/) | Easy |
