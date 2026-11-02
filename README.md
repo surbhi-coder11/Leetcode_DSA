@@ -535,6 +535,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0139-word-break](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0146-lru-cache](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0146-lru-cache/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0160-intersection-of-two-linked-lists](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0169-majority-element/) | Easy |
@@ -941,6 +942,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0155-min-stack/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
@@ -1389,6 +1391,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0141-linked-list-cycle](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0143-reorder-list/) | Medium |
+| [0146-lru-cache](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0146-lru-cache/) | Medium |
 | [0148-sort-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0206-reverse-linked-list/) | Easy |
@@ -1522,6 +1525,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0146-lru-cache/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
