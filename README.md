@@ -379,6 +379,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0141-linked-list-cycle](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0143-reorder-list/) | Medium |
+| [0148-sort-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -614,6 +615,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0056-merge-intervals](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0220-contains-duplicate-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0220-contains-duplicate-iii/) | Hard |
@@ -1026,6 +1028,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0023-merge-k-sorted-lists](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0148-sort-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -1384,6 +1387,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0141-linked-list-cycle](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0143-reorder-list/) | Medium |
+| [0148-sort-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -1397,6 +1401,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0148-sort-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0148-sort-list/) | Medium |
 | [0912-sort-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0912-sort-an-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
