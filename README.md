@@ -45,6 +45,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0078-subsets](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0120-triangle/) | Medium |
@@ -529,6 +530,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0036-valid-sudoku](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0076-minimum-window-substring/) | Hard |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0126-word-ladder-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0127-word-ladder/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
@@ -1033,6 +1035,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0148-sort-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0169-majority-element/) | Easy |
@@ -1051,6 +1054,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -1137,6 +1141,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
