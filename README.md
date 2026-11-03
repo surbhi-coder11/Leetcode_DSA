@@ -918,6 +918,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0143-reorder-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0155-min-stack/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0224-basic-calculator](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0224-basic-calculator/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -944,6 +945,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0155-min-stack/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -1051,6 +1053,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0226-invert-binary-tree/) | Easy |
@@ -1134,6 +1137,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0226-invert-binary-tree/) | Easy |
@@ -1370,6 +1374,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -1651,4 +1656,8 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
