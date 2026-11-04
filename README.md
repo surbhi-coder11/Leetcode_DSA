@@ -221,6 +221,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -597,6 +598,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3312-sorted-gcd-pair-queries](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -698,6 +700,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3013-divide-an-array-into-subarrays-with-minimum-cost-ii/) | Hard |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3347-maximum-frequency-of-an-element-after-performing-operations-ii/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -898,6 +901,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -1208,6 +1212,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3013-divide-an-array-into-subarrays-with-minimum-cost-ii/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3620-network-recovery-pathways](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -1289,6 +1294,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3312-sorted-gcd-pair-queries](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
