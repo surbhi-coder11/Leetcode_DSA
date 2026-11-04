@@ -43,6 +43,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0074-search-a-2d-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -318,6 +319,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0048-rotate-image](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0174-dungeon-game](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0174-dungeon-game/) | Hard |
 | [0212-word-search-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0212-word-search-ii/) | Hard |
@@ -432,6 +434,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0071-simplify-path](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0076-minimum-window-substring/) | Hard |
+| [0079-word-search](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0079-word-search/) | Medium |
 | [0087-scramble-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0087-scramble-string/) | Hard |
 | [0091-decode-ways](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0091-decode-ways/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0093-restore-ip-addresses/) | Medium |
@@ -1100,6 +1103,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0079-word-search/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0130-surrounded-regions](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0130-surrounded-regions/) | Medium |
@@ -1338,6 +1342,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0022-generate-parentheses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0040-combination-sum-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0079-word-search/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0126-word-ladder-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0212-word-search-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0212-word-search-ii/) | Hard |
