@@ -448,6 +448,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0151-reverse-words-in-a-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0212-word-search-ii/) | Hard |
 | [0224-basic-calculator](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0242-valid-anagram/) | Easy |
@@ -959,6 +960,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0155-min-stack](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -1110,6 +1112,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0144-binary-tree-preorder-traversal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0207-course-schedule](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0207-course-schedule/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0226-invert-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -1192,6 +1195,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0014-longest-common-prefix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0139-word-break](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0212-word-search-ii/) | Hard |
 | [1268-search-suggestions-system](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
