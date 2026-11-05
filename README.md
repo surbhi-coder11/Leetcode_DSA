@@ -126,6 +126,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1340-jump-game-v](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1345-jump-game-iv/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -400,6 +401,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0443-string-compression](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0443-string-compression/) | Medium |
 | [0696-count-binary-substrings](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0696-count-binary-substrings/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1861-rotating-the-box/) | Medium |
@@ -650,6 +652,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1288-remove-covered-intervals](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1340-jump-game-v/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -777,6 +780,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1201-ugly-number-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1201-ugly-number-iii/) | Medium |
 | [1268-search-suggestions-system](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
