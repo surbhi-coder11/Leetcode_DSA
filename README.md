@@ -154,6 +154,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1861-rotating-the-box](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1861-rotating-the-box/) | Medium |
 | [1872-stone-game-viii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1895-largest-magic-square](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1895-largest-magic-square/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
@@ -1230,6 +1231,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0912-sort-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1268-search-suggestions-system](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2402-meeting-rooms-iii/) | Hard |
