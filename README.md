@@ -1539,6 +1539,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0182-duplicate-emails](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0182-duplicate-emails/) | Easy |
 | [0584-find-customer-referee](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0584-find-customer-referee/) | Easy |
+| [0595-big-countries](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0595-big-countries/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
