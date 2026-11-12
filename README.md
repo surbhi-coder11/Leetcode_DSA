@@ -1545,6 +1545,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0584-find-customer-referee](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0584-find-customer-referee/) | Easy |
 | [0585-investments-in-2016](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0585-investments-in-2016/) | Medium |
 | [0595-big-countries](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0595-big-countries/) | Easy |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1251-average-selling-price](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1251-average-selling-price/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
