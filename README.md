@@ -1545,6 +1545,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0595-big-countries](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0595-big-countries/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1251-average-selling-price](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1251-average-selling-price/) | Easy |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1661-average-time-of-process-per-machine/) | Easy |
