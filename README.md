@@ -1548,6 +1548,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0176-second-highest-salary/) | Medium |
+| [0180-consecutive-numbers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0180-consecutive-numbers/) | Medium |
 | [0182-duplicate-emails](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0182-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0197-rising-temperature/) | Easy |
 | [0577-employee-bonus](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0577-employee-bonus/) | Easy |
