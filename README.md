@@ -96,6 +96,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0518-coin-change-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0518-coin-change-ii/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -572,6 +573,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0380-insert-delete-getrandom-o1](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0496-next-greater-element-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0721-accounts-merge](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0740-delete-and-earn](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0740-delete-and-earn/) | Medium |
@@ -826,6 +828,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
