@@ -474,6 +474,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0394-decode-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0394-decode-string/) | Medium |
 | [0399-evaluate-division](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0433-minimum-genetic-mutation/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0443-string-compression/) | Medium |
 | [0649-dota2-senate](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0649-dota2-senate/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -572,6 +573,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0350-intersection-of-two-arrays-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0433-minimum-genetic-mutation/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0652-find-duplicate-subtrees/) | Medium |
@@ -710,6 +712,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0076-minimum-window-substring](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0220-contains-duplicate-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0220-contains-duplicate-iii/) | Hard |
+| [0438-find-all-anagrams-in-a-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
