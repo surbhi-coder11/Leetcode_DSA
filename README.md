@@ -1558,6 +1558,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1070-product-sales-analysis-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1070-product-sales-analysis-iii/) | Medium |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1164-product-price-at-a-given-date](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1251-average-selling-price](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1251-average-selling-price/) | Easy |
