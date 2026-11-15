@@ -1569,6 +1569,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1661-average-time-of-process-per-machine](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1683-invalid-tweets/) | Easy |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1907-count-salary-categories](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1907-count-salary-categories/) | Medium |
