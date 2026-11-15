@@ -81,6 +81,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0268-missing-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0274-h-index/) | Medium |
 | [0283-move-zeroes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0289-game-of-life](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0289-game-of-life/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -402,6 +403,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0202-happy-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -782,6 +784,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0222-count-complete-tree-nodes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -1274,6 +1277,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0222-count-complete-tree-nodes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0260-single-number-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0338-counting-bits/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1009-complement-of-base-10-integer/) | Easy |
@@ -1677,6 +1681,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0141-linked-list-cycle](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0202-happy-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1766,4 +1771,8 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
