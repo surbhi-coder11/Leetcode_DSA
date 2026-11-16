@@ -511,6 +511,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2075-decode-the-slanted-ciphertext](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2409-count-days-spent-together](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2409-count-days-spent-together/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -761,6 +762,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2075-decode-the-slanted-ciphertext](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2402-meeting-rooms-iii/) | Hard |
