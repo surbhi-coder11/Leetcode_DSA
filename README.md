@@ -210,6 +210,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3013-divide-an-array-into-subarrays-with-minimum-cost-ii/) | Hard |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -699,6 +700,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3347-maximum-frequency-of-an-element-after-performing-operations-ii/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -939,6 +941,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2573-find-the-string-with-lcp](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
