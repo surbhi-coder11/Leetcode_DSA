@@ -223,6 +223,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3347-maximum-frequency-of-an-element-after-performing-operations-ii/) | Hard |
@@ -534,6 +535,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3120-count-the-number-of-special-characters-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -626,6 +628,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3120-count-the-number-of-special-characters-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -1153,6 +1156,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Depth-First Search
@@ -1205,6 +1209,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
