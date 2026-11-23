@@ -129,6 +129,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1340-jump-game-v](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1345-jump-game-iv/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -847,6 +848,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0238-product-of-array-except-self](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -1014,6 +1016,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0901-online-stock-span](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0901-online-stock-span/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1622-fancy-sequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1622-fancy-sequence/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2069-walking-robot-simulation-ii/) | Medium |
@@ -1032,6 +1035,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0901-online-stock-span](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0901-online-stock-span/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1348,6 +1352,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1137-n-th-tribonacci-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1201-ugly-number-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1201-ugly-number-iii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
