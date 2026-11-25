@@ -752,6 +752,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0024-swap-nodes-in-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0050-powx-n/) | Medium |
+| [0060-permutation-sequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0060-permutation-sequence/) | Hard |
 | [0143-reorder-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0224-basic-calculator/) | Hard |
@@ -1334,6 +1335,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0029-divide-two-integers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0050-powx-n/) | Medium |
+| [0060-permutation-sequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0067-add-binary/) | Easy |
