@@ -756,6 +756,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0143-reorder-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0224-basic-calculator/) | Hard |
+| [0233-number-of-digit-one](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0394-decode-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -911,6 +912,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0213-house-robber-ii/) | Medium |
+| [0233-number-of-digit-one](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0337-house-robber-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0337-house-robber-iii/) | Medium |
 | [0338-counting-bits](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0338-counting-bits/) | Easy |
@@ -1345,6 +1347,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0172-factorial-trailing-zeroes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0202-happy-number/) | Easy |
 | [0224-basic-calculator](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0224-basic-calculator/) | Hard |
+| [0233-number-of-digit-one](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [0268-missing-number](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0268-missing-number/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0396-rotate-function](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/0396-rotate-function/) | Medium |
