@@ -289,6 +289,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4008-minimum-initial-strength-to-defeat-all-monsters/) | Medium |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
+| [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4012-count-of-unfinished-tasks-after-each-shift/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -856,6 +857,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3620-network-recovery-pathways](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4008-minimum-initial-strength-to-defeat-all-monsters/) | Medium |
+| [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4012-count-of-unfinished-tasks-after-each-shift/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -896,6 +898,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3904-smallest-stable-index-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4008-minimum-initial-strength-to-defeat-all-monsters/) | Medium |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
+| [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4012-count-of-unfinished-tasks-after-each-shift/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
