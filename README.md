@@ -1407,6 +1407,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3875-construct-uniform-parity-array-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [4002-count-valid-sequences](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4002-count-valid-sequences/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1415,6 +1416,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [4002-count-valid-sequences](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4002-count-valid-sequences/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
