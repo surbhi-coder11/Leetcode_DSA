@@ -555,6 +555,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3983-subsequence-after-one-replacement](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3983-subsequence-after-one-replacement/) | Medium |
+| [4006-count-valid-prefixes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4006-count-valid-prefixes/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1102,6 +1103,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3737-count-subarrays-with-majority-element-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3805-count-caesar-cipher-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
+| [4006-count-valid-prefixes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4006-count-valid-prefixes/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
