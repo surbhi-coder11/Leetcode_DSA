@@ -285,6 +285,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3904-smallest-stable-index-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 | [4001-aggregate-two-time-series](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4001-aggregate-two-time-series/) | Medium |
+| [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4003-minimum-cost-path-with-alternating-directions-iii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -385,6 +386,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3665-twisted-mirror-path-count](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4003-minimum-cost-path-with-alternating-directions-iii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1302,6 +1304,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3620-network-recovery-pathways](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3767-maximize-points-after-choosing-k-tasks/) | Medium |
+| [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4003-minimum-cost-path-with-alternating-directions-iii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1482,6 +1485,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3620-network-recovery-pathways/) | Hard |
+| [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4003-minimum-cost-path-with-alternating-directions-iii/) | Hard |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1567,6 +1571,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2976-minimum-cost-to-convert-string-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3620-network-recovery-pathways/) | Hard |
+| [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4003-minimum-cost-path-with-alternating-directions-iii/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
