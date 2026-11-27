@@ -286,6 +286,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 | [4001-aggregate-two-time-series](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4001-aggregate-two-time-series/) | Medium |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4003-minimum-cost-path-with-alternating-directions-iii/) | Hard |
+| [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4008-minimum-initial-strength-to-defeat-all-monsters/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -330,6 +331,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3767-maximize-points-after-choosing-k-tasks/) | Medium |
+| [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4008-minimum-initial-strength-to-defeat-all-monsters/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -851,6 +853,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4008-minimum-initial-strength-to-defeat-all-monsters/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -889,6 +892,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4008-minimum-initial-strength-to-defeat-all-monsters/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
