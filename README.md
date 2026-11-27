@@ -284,6 +284,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3903-smallest-stable-index-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+| [4001-aggregate-two-time-series](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4001-aggregate-two-time-series/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -435,6 +436,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3983-subsequence-after-one-replacement](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3983-subsequence-after-one-replacement/) | Medium |
+| [4001-aggregate-two-time-series](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4001-aggregate-two-time-series/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
