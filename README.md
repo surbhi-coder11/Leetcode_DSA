@@ -287,6 +287,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [4001-aggregate-two-time-series](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4001-aggregate-two-time-series/) | Medium |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4003-minimum-cost-path-with-alternating-directions-iii/) | Hard |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4008-minimum-initial-strength-to-defeat-all-monsters/) | Medium |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1417,6 +1418,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3876-construct-uniform-parity-array-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [4002-count-valid-sequences](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4002-count-valid-sequences/) | Medium |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1662,6 +1664,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3745-maximize-expression-of-three-elements](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1680,6 +1683,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
