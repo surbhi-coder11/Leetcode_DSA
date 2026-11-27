@@ -290,6 +290,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [4010-maximize-pair-strength-using-gcd](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4012-count-of-unfinished-tasks-after-each-shift/) | Medium |
+| [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4013-count-subarrays-with-even-odd-ratio-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -899,6 +900,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4008-minimum-initial-strength-to-defeat-all-monsters/) | Medium |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4012-count-of-unfinished-tasks-after-each-shift/) | Medium |
+| [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4013-count-subarrays-with-even-odd-ratio-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1143,6 +1145,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
+| [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4013-count-subarrays-with-even-odd-ratio-ii/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1553,6 +1556,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3737-count-subarrays-with-majority-element-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
+| [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4013-count-subarrays-with-even-odd-ratio-ii/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1613,6 +1617,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
+| [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4013-count-subarrays-with-even-odd-ratio-ii/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1710,6 +1715,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3161-block-placement-queries](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3161-block-placement-queries/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
+| [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4013-count-subarrays-with-even-odd-ratio-ii/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
