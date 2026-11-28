@@ -293,6 +293,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4013-count-subarrays-with-even-odd-ratio-ii/) | Hard |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 | [4015-weighted-sum-of-a-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4015-weighted-sum-of-a-tree/) | Medium |
+| [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4016-maximum-area-of-two-non-overlapping-square-submatrices/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -396,6 +397,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3742-maximum-path-score-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4003-minimum-cost-path-with-alternating-directions-iii/) | Hard |
+| [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4016-maximum-area-of-two-non-overlapping-square-submatrices/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -864,6 +866,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4008-minimum-initial-strength-to-defeat-all-monsters/) | Medium |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4012-count-of-unfinished-tasks-after-each-shift/) | Medium |
+| [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4016-maximum-area-of-two-non-overlapping-square-submatrices/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -996,6 +999,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4016-maximum-area-of-two-non-overlapping-square-submatrices/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
