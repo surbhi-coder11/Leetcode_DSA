@@ -291,6 +291,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4012-count-of-unfinished-tasks-after-each-shift/) | Medium |
 | [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4013-count-subarrays-with-even-odd-ratio-ii/) | Hard |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -336,6 +337,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3745-maximize-expression-of-three-elements](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3767-maximize-points-after-choosing-k-tasks/) | Medium |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4008-minimum-initial-strength-to-defeat-all-monsters/) | Medium |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -445,6 +447,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3983-subsequence-after-one-replacement](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3983-subsequence-after-one-replacement/) | Medium |
 | [4001-aggregate-two-time-series](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4001-aggregate-two-time-series/) | Medium |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -729,6 +732,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3767-maximize-points-after-choosing-k-tasks/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
