@@ -292,6 +292,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4012-count-of-unfinished-tasks-after-each-shift/) | Medium |
 | [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4013-count-subarrays-with-even-odd-ratio-ii/) | Hard |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
+| [4015-weighted-sum-of-a-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4015-weighted-sum-of-a-tree/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1193,6 +1194,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3331-find-subtree-sizes-after-changes](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
+| [4015-weighted-sum-of-a-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4015-weighted-sum-of-a-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1247,6 +1249,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
+| [4015-weighted-sum-of-a-tree](https://github.com/surbhi-coder11/Leetcode_DSA/tree/main/4015-weighted-sum-of-a-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
